@@ -1,0 +1,51 @@
+{
+    "data": {
+        "title": "Hi, my name is Anna Sudol, I am frontend developer",
+        "description": "I'm a developer based in London, UK specializing in React. Currently looking for react job opportunities..",
+        "about": {
+            "git": "https://github.com/annasudol",
+            "linkedIn": "https://www.linkedin.com/in/anissa90/",
+            "skills": [
+                "react",
+                "redux",
+                "typeScript",
+                "node"
+            ]
+        },
+        "img": "/static/img/anna.jpg",
+        "projects": [
+            {
+                "project_name": "Guess Song Game",
+                "description": "A game where a user while listening to songs have to choose the right song name. Each game contains 10 songs, the maximum time for an answer is 30 sec. For right answer, a user can get 30, 20 or 10 points, that depend on how quickly would give an answer. For the wrong answer is -10 points",
+                "technologies": [
+                    "react",
+                    "redux",
+                    "react-router",
+                    "typescript"
+                ],
+                "live_link": "#",
+                "github_link": "#",
+                "image_urls": [
+                    "/static/img/project-1.png",
+                    "/static/img/project-1-large.png"
+                ],
+                "id": "0"
+            },
+            {
+                "project_name": "Portfolio app",
+                "description": "my portfolio site",
+                "technologies": [
+                    "react",
+                    "gatsby"
+                ],
+                "live_link": "#",
+                "github_link": "#",
+                "image_urls": [
+                    "/static/img/project-2.png",
+                    "/static/img/project-2-large.png"
+                ],
+                "id": "1"
+            }
+        ]
+    }
+}
